@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".header__btn-menu").onclick=function(){console.log("click menu"),"none"==document.querySelector(".nav_link").style.display?document.querySelector(".nav_link").style.display="grid":document.querySelector(".nav_link").style.display="none"}})();
